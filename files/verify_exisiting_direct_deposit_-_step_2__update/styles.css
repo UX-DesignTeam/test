@@ -895,7 +895,7 @@
   border-width:1px;
   border-style:solid;
   border-color:rgba(220, 222, 225, 1);
-  border-radius:8px;
+  border-radius:4px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
@@ -908,8 +908,8 @@
 #u879 {
   border-width:0px;
   position:absolute;
-  left:296px;
-  top:1246px;
+  left:288px;
+  top:1247px;
   width:74px;
   height:43px;
   font-family:'Lato';
@@ -931,7 +931,7 @@
   border-width:1px;
   border-style:solid;
   border-color:rgba(220, 222, 225, 1);
-  border-radius:8px;
+  border-radius:4px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
