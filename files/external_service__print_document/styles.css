@@ -1,0 +1,128 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-176px;
+  width:1160px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u2499_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:210px;
+  height:34px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Lato Bold', 'Lato Regular', 'Lato';
+  font-weight:700;
+  font-style:normal;
+  font-size:28px;
+}
+#u2499 {
+  border-width:0px;
+  position:absolute;
+  left:591px;
+  top:64px;
+  width:210px;
+  height:34px;
+  font-family:'Lato Bold', 'Lato Regular', 'Lato';
+  font-weight:700;
+  font-style:normal;
+  font-size:28px;
+}
+#u2499_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:215px;
+  white-space:nowrap;
+}
+#u2500_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1160px;
+  height:764px;
+}
+#u2500 {
+  border-width:0px;
+  position:absolute;
+  left:176px;
+  top:197px;
+  width:1160px;
+  height:764px;
+}
+#u2500_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2501_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:76px;
+  height:38px;
+}
+#u2501 {
+  border-width:0px;
+  position:absolute;
+  left:1154px;
+  top:909px;
+  width:76px;
+  height:38px;
+}
+#u2501_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2502_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:82px;
+  height:38px;
+}
+#u2502 {
+  border-width:0px;
+  position:absolute;
+  left:1239px;
+  top:909px;
+  width:82px;
+  height:38px;
+}
+#u2502_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
