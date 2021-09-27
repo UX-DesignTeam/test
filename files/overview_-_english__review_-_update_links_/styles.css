@@ -146,7 +146,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:311px;
+  width:333px;
   white-space:nowrap;
 }
 #u5_img {
@@ -1484,16 +1484,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:384px;
-  height:29px;
+  width:360px;
+  height:26px;
 }
 #u46 {
   border-width:0px;
   position:absolute;
   left:204px;
   top:599px;
-  width:382px;
-  height:27px;
+  width:358px;
+  height:24px;
   font-family:'Noto Sans';
   font-weight:400;
   font-style:normal;
@@ -3619,8 +3619,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:620px;
-  height:34px;
+  width:651px;
+  height:35px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -3638,8 +3638,8 @@
   position:absolute;
   left:180px;
   top:836px;
-  width:620px;
-  height:34px;
+  width:651px;
+  height:35px;
   font-family:'Lato Bold', 'Lato Regular', 'Lato';
   font-weight:700;
   font-style:normal;
@@ -5269,7 +5269,7 @@
   top:349px;
   width:30px;
   height:32px;
-  font-family:'Consolas Bold', 'Consolas';
+  font-family:'Consolas Bold', 'Consolas Regular', 'Consolas';
   font-weight:700;
   font-style:normal;
   font-size:28px;
