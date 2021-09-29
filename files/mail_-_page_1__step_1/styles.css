@@ -1168,7 +1168,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans';
+  font-family:'Noto Sans Regular', 'Noto Sans';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -1181,7 +1181,7 @@
   top:914px;
   width:752px;
   height:42px;
-  font-family:'Noto Sans';
+  font-family:'Noto Sans Regular', 'Noto Sans';
   font-weight:400;
   font-style:normal;
   font-size:20px;
